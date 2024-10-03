@@ -1,6 +1,4 @@
-## Swerve Drive/Project Information
-FRC 4741s swerve project. Bassed off of YAGSL.
-
+## FRC 4741's Crescendos code
 Base Libary - https://github.com/BroncBotz3481/YAGSL/tree/main
 
 Used Exaple Project - https://github.com/BroncBotz3481/YAGSL-Example
